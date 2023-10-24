@@ -1,0 +1,8 @@
+[package]
+name = "voip"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mohamed A.Taha <Ahmed.boin@gmail.com>"]
+
+[dependencies]
+cpal = { version = "0.15.2" }
